@@ -1,0 +1,6 @@
+.devcontainer/
+.vscode/
+CMakeLists.txt
+build/
+sdkconfig*
+pytest_hello_world.py

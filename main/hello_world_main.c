@@ -77,7 +77,7 @@ void move_servo(uint8_t servo_num, float angle) {
     printf("Servo %d movido a %.1f° (Duty: %" PRIu32 ")\n", servo_num, angle, duty);
 }
 
-
+//Hola
 void app_main() {
     // Inicializar todos los servos
     init_servos();
